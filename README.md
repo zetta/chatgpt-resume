@@ -45,8 +45,6 @@
 ### DevOps/CI-CD:
 - Automated workflows with **CircleCI**, **GitHub Actions**, **Jenkins**
 - Deployment pipelines using **Docker** and **Kubernetes**
-- Artifact management with **Cloudsmith** and internal **Artifact Stores**
-- Cross-platform client app release management (Linux, Windows, macOS)
 
 ### Software Design & Architecture:
 - API design and development (**REST**, **GraphQL**)
@@ -123,7 +121,7 @@ Here’s how you can get the most out of me:
 
 2. **DevOps & Automation**:
    - Assist in building and automating CI/CD pipelines, handling deployment workflows, and setting up Docker/Kubernetes environments.
-   - Help manage package distribution and artifact storage systems like Cloudsmith.
+   - Help manage package distribution systems.
 
 3. **API Development**:
    - Guide you through designing, implementing, and documenting REST or GraphQL APIs.
